@@ -212,8 +212,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             }
         ], callback)) {
             return;
@@ -268,8 +267,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             },
             {
                 name: 'tokenId',
@@ -339,8 +337,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             },
             {
                 name: 'contractAddress',
@@ -512,8 +509,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             }
         ], callback)) {
             return;
@@ -617,8 +613,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             }
         ], callback)) {
             return;
@@ -680,8 +675,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             }
         ], callback)) {
             return;
@@ -745,8 +739,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             },
             {
                 name: 'contractAddress',
@@ -926,8 +919,7 @@ export default class SideChain {
                 name: 'feeLimit',
                 type: 'integer',
                 value: feeLimit,
-                gte: 0,
-                lte: MAX_FEE_LIMIT
+                gte: 0
             }
         ], callback)) {
             return;

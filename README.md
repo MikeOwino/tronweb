@@ -173,7 +173,7 @@ In order to contribute you can
 ## Recent History
 
 __4.0.1__
-- Set feeLimit max value as 10000 TRX
+- Remove the feeLimit maximum value limit
 
 __4.0.0__
 - support `broadcastHex` method
